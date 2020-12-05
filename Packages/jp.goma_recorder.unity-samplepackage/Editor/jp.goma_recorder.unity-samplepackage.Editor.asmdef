@@ -1,0 +1,17 @@
+{
+    "name": "jp.goma_recorder.unity-samplepackage.Editor",
+    "references": [
+        "GUID:a49f66ed2510c2e42be2d2bb2cbd74aa"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

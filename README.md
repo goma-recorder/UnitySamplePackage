@@ -1,1 +1,3 @@
 # UnitySamplePackage
+
+Unityのカスタムパッケージのサンプルです。
