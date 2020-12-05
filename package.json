@@ -1,0 +1,24 @@
+{
+    "name": "jp.goma_recorder.unity-samplepackage",
+    "displayName": "Unity Sample Package",
+    "description": "サンプルパッケージです。",
+    "version": "0.0.0",
+    "author": "Tabi Morinaga",
+    "unity": "2020.1",
+    "keywords": [
+        "unity"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/goma-recorder/UnitySamplePackage#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/goma-recorder/UnitySamplePackage"
+    },
+    "samples": [
+        {
+            "displayName": "Sample 1",
+            "description": "これはサンプルです。",
+            "path": "Samples~/Sample1"
+        }
+    ]
+}
