@@ -31,7 +31,7 @@ jobs:
         git checkout upm
         git checkout master README.md || echo README.md not found
         mkdir Documentation~
-        git mv README.md Documentation~/unity-samplepackage.md
+        git mv README.md Documentation~/jp.goma_recorder.unity-samplepackage.md
         git checkout master README.md || echo README.md not found
         git checkout master CHANGELOG.md || echo CHANGELOG.md not found
         git checkout master LICENSE || echo LICENSE not found
@@ -45,7 +45,7 @@ jobs:
         fi
         git push -f -u origin upm
       env:
-        PKG_ROOT: Packages/unity-samplepackage
+        PKG_ROOT: Packages/jp.goma_recorder.unity-samplepackage
 
     - name: Create upm git tag
       if: steps.semantic.outputs.new_release_published == 'true'
