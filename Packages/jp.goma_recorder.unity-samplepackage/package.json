@@ -2,7 +2,7 @@
     "name": "jp.goma_recorder.unity-samplepackage",
     "displayName": "Unity Sample Package",
     "description": "サンプルパッケージです。",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Tabi Morinaga",
     "unity": "2020.1",
     "keywords": [
